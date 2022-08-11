@@ -1,4 +1,5 @@
-<h1> 👋 Hi, I’m Fahad Ahmad a self-taught full stack developer. </h1>
+<h1> 👋 Hi, I’m Fahad Ahmad </h1>
+<h3>A self-taught full stack developer. </h2>
 
 <h3>Skills:</h3>
 

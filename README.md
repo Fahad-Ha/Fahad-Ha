@@ -1,4 +1,11 @@
-<h1> 👋 Hi, I’m Fahad Ahmad</h1>
+<h1> 👋 Hi, I’m Fahad Ahmad </h1>
+
+<h3>Skills:</h3>
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python,react,nodejs,c)](https://skills.thijs.gg)
+
+
+
 
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me: fahad.devx@gmail.com

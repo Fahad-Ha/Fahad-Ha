@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning to be a Fullstack Developer 
 - 📫 How to reach me: fahad.devx@gmail.com
 
 <!---

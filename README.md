@@ -3,12 +3,12 @@
 
 <h3>Skills:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python,react,nodejs,c)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,cwasm)](https://skillicons.dev)
 
 
 
 
-- 🌱 I’m currently learning to be a Fullstack Developer 
+- 🌱 I’m currently working as a Fullstack Developer 
 - 📫 How to reach me: fahad.devx@gmail.com
 
 <!---

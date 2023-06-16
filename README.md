@@ -8,7 +8,8 @@
 
 
 
-- 🌱 I’m currently working as a Fullstack Developer 
+- 🌱 I’m currently working as a Fullstack Developer
+- Portfolio: https://courageous-chebakia-f38c35.netlify.app
 - 📫 How to reach me: fahad.devx@gmail.com
 
 <!---

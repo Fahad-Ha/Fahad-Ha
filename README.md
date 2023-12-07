@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=fahad-ha)
+
 <h1> 👋 Hi, I’m Fahad Ahmad </h1>
 <h3>A self-taught full stack developer. </h2>
 

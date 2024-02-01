@@ -3,7 +3,7 @@
 
 <h3>Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,dart,react,nextjs,flutter,angular,nodejs,express,django,tailwind,mysql,mongodb,redux,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,dart,go,react,nextjs,flutter,angular,nodejs,express,django,mysql,mongodb,figma,git)](https://skillicons.dev)
 
 
 

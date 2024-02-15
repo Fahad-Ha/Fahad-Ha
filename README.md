@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I’m Fahad Ahmad </h1>
 <h3>A self-taught full stack developer. </h2>
 
-<h3>Skills:</h3>
+<h3>Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,go,react,nextjs,flutter,angular,nodejs,express,mysql,mongodb)](https://skillicons.dev)
 

@@ -1,5 +1,5 @@
 <h1> 👋 Hi, I’m Fahad Ahmad </h1>
-<h3>A self-taught full stack developer. </h2>
+<h3>A self-taught full stack developer.</h2>
 
 <h3>Languages and Tools:</h3>
 

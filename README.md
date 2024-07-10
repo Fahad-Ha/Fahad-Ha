@@ -5,7 +5,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,go,react,flutter,angular,nodejs,mysql,mongodb)](https://skillicons.dev)
 
-
 - 🌱 I’m currently working as a Fullstack Developer
 - ✨ Portfolio: https://courageous-chebakia-f38c35.netlify.app
 - 📫 How to reach me: fahad.devx@gmail.com

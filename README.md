@@ -3,7 +3,7 @@
 
 <h3>Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,go,react,flutter,angular,nodejs,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,go,cpp,react,flutter,angular,nodejs,mysql,mongodb)](https://skillicons.dev)
 
 - 🌱 Currently working as a Fullstack Developer
 - ✨ Portfolio: https://courageous-chebakia-f38c35.netlify.app

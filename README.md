@@ -2,7 +2,6 @@
 <h3>A self-taught full stack developer.</h2>
 
 <h3>Languages and Tools:</h3>
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,go,react,flutter,angular,nodejs,mysql,mongodb,docker,kubernetes,gcp)](https://skillicons.dev)
 
 - 🌱 Currently working as a Fullstack Developer [@Rasameel](https://github.com/rasameel)

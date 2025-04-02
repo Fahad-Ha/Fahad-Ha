@@ -3,7 +3,7 @@
 
 <h3>Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,go,react,flutter,angular,nodejs,mysql,mongodb,docker,kubernetes,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,react,flutter,angular,nodejs,mysql,mongodb,docker,kubernetes,gcp)](https://skillicons.dev)
 
 - 🌱 Currently working as a Fullstack Developer [@Rasameel](https://github.com/rasameel)
 - ✨ Portfolio: https://fahad-ahmad.netlify.app/

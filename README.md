@@ -5,7 +5,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,html,css,go,react,flutter,angular,nodejs,postgres,mongodb,docker,kubernetes,gcp)](https://skillicons.dev)
 
-- 🌱 Currently working as a Fullstack Developer [@Rasameel](https://github.com/rasameel)
+- 🌱 Currently working as a Fullstack Developer [@Kfic Invest](https://github.com/rasameel)
 - ✨ Portfolio: https://fahad-ahmad.netlify.app/
 - 📫 How to reach me: fahad.devx@gmail.com
 
